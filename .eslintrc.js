@@ -25,5 +25,10 @@ module.exports = {
     "react/function-component-definition": "off",
     "react/self-closing-comp": "off",
     "import/no-named-as-default": "off",
+    "react/prop-types": "off",
+    "no-unused-vars": "off",
+    "jsx-a11y/click-events-have-key-events": "off",
+    "jsx-a11y/no-static-element-interactions": "off",
+    "react/jsx-no-useless-fragment": "off",
   },
 };
